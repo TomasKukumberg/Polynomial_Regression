@@ -1,9 +1,8 @@
 # Polynomial-Regression
 Uses a genetic algorithm aproach to find a polynomial function from an inputted set of points.
 
-Written in Matlab.
-
----
+## Tech stack
+<img src="https://skillicons.dev/icons?i=matlab" />
 
 ## Algorithm
 1. Get an input from user (X and Y points). Genetic algorithm will then use these points to calculate a fitness function.
@@ -13,10 +12,8 @@ Written in Matlab.
 5. Mutate and generate new pop from the rest (N-K)
 6. Repeat
 
----
-
 ## Polynomial regression from inputted set of points
-    Legend: points in red are user inputted X and Y values, blue is our approximated polynomial function.
+Legend: points in red are user inputted X and Y values, blue is our approximated polynomial function.
 
 
 ![](git_img/first.PNG)
